@@ -24,37 +24,33 @@ const Footer = () => {
                     </p>
                     <p className="flex flex-row items-center my-[15px] cursor-pointer">
                         <RxGithubLogo />
-                        <span className="text-[15px] ml-[6px]">Github</span>    
-                    </p>
-                    <p className="flex flex-row items-center my-[15px] cursor-pointer">
-                        <RxDiscordLogo />
-                        <span className="text-[15px] ml-[6px]">Discord</span>    
+                        <span className="text-[15px] ml-[6px]"><a href="https://github.com/Ramos8K">GitHub</a></span>    
                     </p>
                 </div>
                 <div className="min-w-[200px] h-auto flex flex-col items-center justify-start">
                     <div className="font-bold text-[16px]">Redes Sociais</div>
                     <p className="flex flex-row items-center my-[15px] cursor-pointer">
                         <RxInstagramLogo />
-                        <span className="text-[15px] ml-[6px]">Instagram</span>    
+                        <span className="text-[15px] ml-[6px]"><a href="https://www.instagram.com/oramos8k/">Instagram</a></span>    
                     </p>
                     <p className="flex flex-row items-center my-[15px] cursor-pointer">
                         <RxTwitterLogo />
-                        <span className="text-[15px] ml-[6px]">Twitter</span>    
+                        <span className="text-[15px] ml-[6px]"><a href="https://github.com/Ramos8K">Twiter</a></span>    
                     </p>
                     <p className="flex flex-row items-center my-[15px] cursor-pointer">
                         <RxLinkedinLogo />
-                        <span className="text-[15px] ml-[6px]">Linkedin</span>    
+                        <span className="text-[15px] ml-[6px]"><a href="https://www.linkedin.com/in/gabriel-da-concei%C3%A7%C3%A3o-ramos-b013a5247/">Linkedin</a></span>    
                     </p>
                 </div>
                 <div className="min-w-[200px] h-auto flex flex-col items-center justify-start">
                     <div className="font-bold text-[16px]">Sobre</div>
                    <p className="flex flex-row items-center my-[15px] cursor-pointer">
                      
-                        <span className="text-[15px] ml-[6px]">Se torne assinante</span>    
+                        <span className="text-[15px] ml-[6px]"><a href='https://wa.me/5511989919726'>Entre em contato comigo</a></span>    
                     </p>
                     <p className="flex flex-row items-center my-[15px] cursor-pointer">
                       
-                        <span className="text-[15px] ml-[6px]">Leia mais sobre mim</span>    
+                        <span className="text-[15px] ml-[6px]"><a href="#about">Leia mais sobre mim</a></span>    
                     </p>
                     <p className="flex flex-row items-center my-[15px] cursor-pointer">
                   
