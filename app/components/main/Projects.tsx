@@ -12,19 +12,17 @@ const Projects = () => {
             src="/template-imobiliario.png"
             title="Landing Page - Imobiliario"
             description="Landing Page de alta conversão de capturar novos clientes para uma empresa do nicho imobiliário."
-            href='https://digital8kgroup.com/template-imobiliario/'
             />
             <ProjectCard
             src="/template-mkt.png"
             title="Landing Page - Marketing Digital"
             description="Landing Page de alta conversão de capturar novos clientes para uma empresa do nicho de vendas de cursos no Marketing Digital."
-            href=''
+
             />
             <ProjectCard
             src="/template-loja.png"
             title="E-commerce"
-            description="E-commerce criado para venda de produtos IOT de segurança domiciliar"
-            href=''
+            description="E-commerce criado para venda de produtos IOT de segurança domiciliar"          
             />
         </div>   
     </div>
