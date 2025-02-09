@@ -1,4 +1,3 @@
-import { Socials } from '@/app/constants'
 import Image from 'next/image'
 import React from 'react'
 
